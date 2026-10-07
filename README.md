@@ -218,4 +218,4 @@ Para confirmar que quedaste registrado como solver:
 ---
 
 *· Ekoparty 2026 · Nivel: entry.*
-* Maximilian0.eth *
+*Built with ❤️ by maximilian0.eth*
