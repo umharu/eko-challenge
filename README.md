@@ -1,4 +1,4 @@
-# 🏴‍☠️ La bóveda de la Eko — CTF Web3 (Ekoparty 2026)
+# 🏴‍☠️ — CTF Web3 (Ekoparty 2026)
 
 Reto **entry level** de seguridad Web3. El objetivo es simple: **abrir la bóveda** llamando a la función `abrir()` del contrato con la clave correcta, firmando la transacción desde **tu propia wallet** en la red de pruebas **Sepolia**.
 
