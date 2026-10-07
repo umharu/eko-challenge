@@ -217,4 +217,5 @@ Para confirmar que quedaste registrado como solver:
 
 ---
 
-*CTF: La bóveda de la Eko · Ekoparty 2026 · Nivel: entry.*
+*· Ekoparty 2026 · Nivel: entry.*
+* Maximilian0.eth *
